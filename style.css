@@ -16,7 +16,15 @@ body
   color:#fff;
 }
 .jarak{
-  padding:0 2pc;
+  padding:0 2pc;  
 }
 <div class="menu"
 
+<div class="content">
+      <div class="jarak">
+              <!--kiri-->
+              <div class="border">
+                       <h3>Lorem ipsum</h3>
+                       <p>Lorem ipsum is simply dummy text of the printing
+                       <button class="btn">read more..</button>
+                 </div>
